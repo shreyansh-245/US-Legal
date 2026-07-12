@@ -1,0 +1,26 @@
+Internal Revenue Code Section 162 — Trade or Business Expenses
+
+(a) In general. There shall be allowed as a deduction all the ordinary and necessary expenses
+paid or incurred during the taxable year in carrying on any trade or business, including—
+(1) a reasonable allowance for salaries or other compensation for personal services actually
+rendered;
+(2) traveling expenses (including amounts expended for meals and lodging other than amounts
+which are lavish or extravagant under the circumstances) while away from home in the pursuit
+of a trade or business; and
+(3) rentals or other payments required to be made as a condition to the continued use or
+possession, for purposes of the trade or business, of property to which the taxpayer has not
+taken or is not taking title or in which he has no equity.
+
+The Supreme Court has interpreted the "ordinary and necessary" standard on multiple occasions.
+In Welch v. Helvering, 290 U.S. 111 (1933), the Court held that an expense is "necessary" if
+appropriate and helpful for the development of the business, and "ordinary" if it is a common
+and accepted practice in the taxpayer's line of business, even if it happens only once in the
+taxpayer's own experience. Whether an expenditure is deductible under Section 162 or must
+instead be capitalized turns on whether it produces a benefit that extends substantially beyond
+the taxable year, as addressed in INDOPCO, Inc. v. Commissioner, 503 U.S. 79 (1992).
+
+Illegal payments and expenses that frustrate a sharply defined public policy are not deductible
+even if ordinary and necessary in the trade, consistent with the reasoning in Commissioner v.
+Sullivan, 356 U.S. 27 (1958), which nonetheless permitted deduction of rent and wages paid in
+connection with an illegal bookmaking operation because those particular expenses did not
+themselves violate the law.
