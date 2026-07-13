@@ -1,3 +1,5 @@
+MAKE SURE TO DOWNLOAD PYTHON 3.12.0
+
 # Legal Tax & Law Q&A System
 
 A retrieval-augmented Q&A system for legal/tax documents. Every answer is generated
